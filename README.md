@@ -36,4 +36,42 @@ Each project highlights a different skill set — from cleaning and visualizing 
 ---
 
 ### 🌍 3. California Housing Pipeline  
-**Goal:** Build a full ML pipeline to predict housing prices in California
+**Goal:** Build a full ML pipeline to predict housing prices in California.  
+
+🔹 **Key Highlights:**  
+- Data preprocessing (scaling, missing values handling)  
+- Feature engineering for improved predictions  
+- Applied regression models for housing price prediction  
+- Evaluated pipeline performance using metrics  
+
+🛠️ **Tech Stack:** Scikit-learn, Pandas, NumPy, Matplotlib  
+
+---
+
+### 🏡 4. California Housing EDA (Visualization)  
+**Goal:** Perform exploratory data analysis on the California Housing dataset using advanced visualization.  
+
+🔹 **Key Highlights:**  
+- Explored geographical and numerical features  
+- Created heatmaps, histograms, and scatter plots  
+- Identified correlations and feature importance visually  
+- Derived insights for potential ML modeling  
+
+🛠️ **Tech Stack:** Pandas, Matplotlib, Seaborn  
+
+---
+
+### 🧬 5. Breast Cancer Classifier  
+**Goal:** Build a classification model to predict breast cancer diagnosis (benign vs malignant).  
+
+🔹 **Key Highlights:**  
+- Cleaned and preprocessed medical dataset  
+- Applied feature scaling and dimensionality reduction  
+- Trained ML classifiers (Logistic Regression, SVM, Random Forest)  
+- Compared performance metrics (accuracy, precision, recall, F1-score)  
+
+🛠️ **Tech Stack:** Scikit-learn, Pandas, NumPy, Matplotlib  
+
+---
+
+✨ Each project demonstrates a unique aspect of **data analysis** and **machine learning**, from visualization to predictive modeling.  
