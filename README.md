@@ -74,4 +74,17 @@ Each project highlights a different skill set — from cleaning and visualizing 
 
 ---
 
-✨ Each project demonstrates a unique aspect of **data analysis** and **machine learning**, from visualization to predictive modeling.  
+### 🏘️ 6. House Prices Prediction  
+**Goal:** Analyze and predict house prices using various regression techniques.  
+
+🔹 **Key Highlights:**  
+- Conducted EDA to identify trends and patterns  
+- Handled missing values and outlier detection  
+- Engineered features to improve model performance  
+- Compared different regression models for prediction accuracy  
+
+🛠️ **Tech Stack:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+
+---
+
+✨ Each project demonstrates a unique aspect of **data analysis** and **machine learning**, from visualization to predictive modeling.
